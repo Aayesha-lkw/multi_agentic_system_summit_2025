@@ -7,7 +7,7 @@ agent3 = LlmAgent(
     name="Agent3",
     model=GEMINI_MODEL,
     description="",
-    instructions="",
+    instruction="",
     tools=[]
 )
 
